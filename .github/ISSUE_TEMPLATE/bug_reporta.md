@@ -1,38 +1,29 @@
 ---
 name: Bug reporta
-about: Create a report to help us improve
+about: Please report any software bugs here
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Which Board?**
+_Original / RGB_  
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Which Board Revision?**
+_This is the one written on main pcb that you are using. 
+On the original it is written on the top outside corner on the silk screen. 
+On the RGB it is written on the bottom outside corner, in copper under the silkscreen,_
+Original = 1.0, 2.0 
+RGB =  2.0, 2.1
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**What Software are you using?**
+*_The configurator, or are you building using qmk, or something more esoteric
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**What is the issue?**
+_Please also include what other components you are having issues with -include any code snippets, error messages or the like that may help. Include pictures of your LEDs or soldering issues etc._
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**What you expected:**
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+* [ ] item 1
+* [ ] item 2
