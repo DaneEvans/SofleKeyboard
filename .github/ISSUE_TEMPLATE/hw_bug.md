@@ -19,10 +19,8 @@ RGB =  2.0, 2.1
 **What is the issue?**
 _Please also include what other components you are having issues with - is the software QMK or the configurator, include pictures of your LEDs or soldering issues etc._
 
-
 **What have you done to narrow down the issue?**
 _Also how can we reproduce it?_
-
 
 **What you expected:**
 

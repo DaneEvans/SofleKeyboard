@@ -23,7 +23,6 @@ RGB =  2.0, 2.1
 **What is the issue?**
 _Please also include what other components you are having issues with -include any code snippets, error messages or the like that may help. Include pictures of your LEDs or soldering issues etc._
 
-
 **What you expected:**
 
 * [ ] item 1
