@@ -1,5 +1,5 @@
 ---
-name: Bug reporta
+name: Software Bug
 about: Please report any software bugs here
 title: ''
 labels: ''
