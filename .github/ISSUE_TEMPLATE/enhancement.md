@@ -1,5 +1,5 @@
 ---
-name: Enhancement
+name: Enhancements
 about: Please suggest any features you'd like to see in future here 
 title: Enhance: summarise your issue here 
 labels: 'enhancement'

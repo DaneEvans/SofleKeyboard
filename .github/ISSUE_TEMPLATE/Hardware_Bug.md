@@ -1,5 +1,5 @@
 ---
-name: HW Bug
+name: Hardware Bug
 about: Please report any hardware bugs here 
 title: HW: summarise your issue here.
 labels: 'bug'
